@@ -1,0 +1,104 @@
+09/10/15 New England Patriots 28, Pittsburgh Steelers 21
+09/13/15 San Diego Chargers 33, Detroit Lions 28
+09/13/15 Buffalo Bills 27, Indianapolis Colts 14
+09/13/15 New York Jets 31, Cleveland Browns 10
+09/13/15 Cincinnati Bengals 33, Oakland Raiders 13
+09/13/15 Arizona Cardinals 31, New Orleans Saints 19
+09/13/15 Carolina Panthers 20, Jacksonville Jaguars 9
+09/13/15 Denver Broncos 19, Baltimore Ravens 13
+09/13/15 Dallas Cowboys 27, New York Giants 26
+09/13/15 St. Louis Rams 34, Seattle Seahawks 31
+09/13/15 Kansas City Chiefs 27, Houston Texans 20
+09/13/15 Green Bay Packers 31, Chicago Bears 23
+09/13/15 Miami Dolphins 17, Washington Redskins 10
+09/13/15 Tennessee Titans 42, Tampa Bay Buccaneers 14
+09/14/15 San Francisco 49ers 20, Minnesota Vikings 3
+09/14/15 Atlanta Falcons 26, Philadelphia Eagles 24
+09/17/15 Denver Broncos 31, Kansas City Chiefs 24
+09/20/15 Atlanta Falcons 24, New York Giants 20
+09/20/15 Tampa Bay Buccaneers 26, New Orleans Saints 19
+09/20/15 Washington Redskins 24, St. Louis Rams 10
+09/20/15 Carolina Panthers 24, Houston Texans 17
+09/20/15 Minnesota Vikings 26, Detroit Lions 16
+09/20/15 Cincinnati Bengals 24, San Diego Chargers 19
+09/20/15 Cleveland Browns 28, Tennessee Titans 14
+09/20/15 Jacksonville Jaguars 23, Miami Dolphins 20
+09/20/15 Dallas Cowboys 20, Philadelphia Eagles 10
+09/20/15 Pittsburgh Steelers 43, San Francisco 49ers 18
+09/20/15 Arizona Cardinals 48, Chicago Bears 23
+09/20/15 Green Bay Packers 27, Seattle Seahawks 17
+09/20/15 Oakland Raiders 37, Baltimore Ravens 33
+09/20/15 New England Patriots 40, Buffalo Bills 32
+09/21/15 New York Jets 20, Indianapolis Colts 7
+09/24/15 New York Giants 32, Washington Redskins 21
+09/27/15 Carolina Panthers 27, New Orleans Saints 22
+09/27/15 Philadelphia Eagles 24, New York Jets 17
+09/27/15 Pittsburgh Steelers 12, St. Louis Rams 6
+09/27/15 Houston Texans 19, Tampa Bay Buccaneers 9
+09/27/15 Arizona Cardinals 47, San Francisco 49ers 7
+09/27/15 Atlanta Falcons 39, Dallas Cowboys 28
+09/27/15 New England Patriots 51, Jacksonville Jaguars 17
+09/27/15 Denver Broncos 24, Detroit Lions 12
+09/27/15 Cincinnati Bengals 28, Baltimore Ravens 24
+09/27/15 Indianapolis Colts 35, Tennessee Titans 33
+09/27/15 Seattle Seahawks 26, Chicago Bears 0
+09/27/15 Oakland Raiders 27, Cleveland Browns 20
+09/27/15 Minnesota Vikings 31, San Diego Chargers 14
+09/27/15 Buffalo Bills 41, Miami Dolphins 14
+09/28/15 Green Bay Packers 38, Kansas City Chiefs 28
+10/01/15 Baltimore Ravens 23, Pittsburgh Steelers 20
+10/04/15 New York Giants 24, Buffalo Bills 10
+10/04/15 New Orleans Saints 26, Dallas Cowboys 20
+10/04/15 Denver Broncos 23, Minnesota Vikings 20
+10/04/15 San Diego Chargers 30, Cleveland Browns 27
+10/04/15 Cincinnati Bengals 36, Kansas City Chiefs 21
+10/04/15 Indianapolis Colts 16, Jacksonville Jaguars 13
+10/04/15 Atlanta Falcons 48, Houston Texans 21
+10/04/15 New York Jets 27, Miami Dolphins 14
+10/04/15 Washington Redskins 23, Philadelphia Eagles 20
+10/04/15 St. Louis Rams 24, Arizona Cardinals 22
+10/04/15 Green Bay Packers 17, San Francisco 49ers 3
+10/04/15 Carolina Panthers 37, Tampa Bay Buccaneers 23
+10/04/15 Chicago Bears 22, Oakland Raiders 20
+10/05/15 Seattle Seahawks 13, Detroit Lions 10
+10/08/15 Indianapolis Colts 27, Houston Texans 20
+10/11/15 Cleveland Browns 33, Baltimore Ravens 30
+10/11/15 Buffalo Bills 14, Tennessee Titans 13
+10/11/15 Cincinnati Bengals 27, Seattle Seahawks 24
+10/11/15 Chicago Bears 18, Kansas City Chiefs 17
+10/11/15 New York Giants 30, San Francisco 49ers 27
+10/11/15 Philadelphia Eagles 39, New Orleans Saints 17
+10/11/15 Denver Broncos 16, Oakland Raiders 10
+10/11/15 Arizona Cardinals 42, Detroit Lions 17
+10/11/15 Atlanta Falcons 25, Washington Redskins 19
+10/11/15 New England Patriots 30, Dallas Cowboys 6
+10/11/15 Tampa Bay Buccaneers 38, Jacksonville Jaguars 31
+10/11/15 Green Bay Packers 24, St. Louis Rams 10
+10/12/15 Pittsburgh Steelers 24, San Diego Chargers 20
+10/15/15 New Orleans Saints 31, Atlanta Falcons 21
+10/18/15 Miami Dolphins 38, Tennessee Titans 10
+10/18/15 Carolina Panthers 27, Seattle Seahawks 23
+10/18/15 New York Jets 34, Washington Redskins 20
+10/18/15 Cincinnati Bengals 34, Buffalo Bills 21
+10/18/15 Houston Texans 31, Jacksonville Jaguars 20
+10/18/15 San Francisco 49ers 25, Baltimore Ravens 20
+10/18/15 Minnesota Vikings 16, Kansas City Chiefs 10
+10/18/15 New England Patriots 34, Indianapolis Colts 27
+10/18/15 Green Bay Packers 27, San Diego Chargers 20
+10/18/15 Denver Broncos 26, Cleveland Browns 23
+10/18/15 Detroit Lions 37, Chicago Bears 34
+10/18/15 Pittsburgh Steelers 25, Arizona Cardinals 13
+10/19/15 Philadelphia Eagles 27, New York Giants 7
+10/22/15 Seattle Seahawks 20, San Francisco 49ers 3
+10/25/15 New York Giants 27, Dallas Cowboys 20
+10/25/15 Washington Redskins 31, Tampa Bay Buccaneers 30
+10/25/15 Oakland Raiders 37, San Diego Chargers 29
+10/25/15 Carolina Panthers 27, Philadelphia Eagles 16
+10/25/15 New England Patriots 30, New York Jets 23
+10/25/15 Minnesota Vikings 28, Detroit Lions 19
+10/25/15 Miami Dolphins 44, Houston Texans 26
+10/25/15 St. Louis Rams 24, Cleveland Browns 6
+10/25/15 New Orleans Saints 27, Indianapolis Colts 21
+10/25/15 Atlanta Falcons 10, Tennessee Titans 7
+10/25/15 Kansas City Chiefs 23, Pittsburgh Steelers 13
+10/25/15 Jacksonville Jaguars 34, Buffalo Bills 31
